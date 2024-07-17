@@ -7,7 +7,7 @@ Software Developer
 I was born in Kayseri and currently live in Istanbul. I have an interest in software development and strive to continuously improve myself in this field. In my spare time, I work on software projects as a hobby.
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at <a href="http://enessenburc.com.tr" target="_blank">Website</a>
+* 🖥️  See my portfolio at [Website](https://enessenburc.com)
 * ✉️  You can contact me at [info@enessenburc.com](mailto:info@enessenburc.com)
 
 <a href="https://www.github.com/EnesSenburc" target="_blank" rel="noreferrer"><img
