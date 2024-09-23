@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 ------------------
 
-I was born in Kayseri and currently live in Istanbul. I have an interest in software development and strive to continuously improve myself in this field. In my spare time, I work on software projects as a hobby.
+I was born in Kayseri and currently live in Istanbul. I have an interest in backend development and strive to continuously improve myself in this field. In my spare time, I work on software projects as a hobby.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [Website](http://enessenburc.com.tr)
