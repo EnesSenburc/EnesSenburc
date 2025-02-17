@@ -7,8 +7,8 @@ Backend Developer
 I was born in Kayseri and currently live in Istanbul. I have an interest in backend development and strive to continuously improve myself in this field. In my spare time, I work on software projects as a hobby.
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [Website](http://enessenburc.com.tr)
-* ✉️  You can contact me at [info@enessenburc.com](mailto:info@enessenburc.com)
+* 🖥️  See my portfolio at [Website](https://senburc.com)
+* ✉️  You can contact me at [enes@senburc.com](mailto:enes@senburc.com)
 
 <a href="https://www.github.com/EnesSenburc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EnesSenburc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
